@@ -14,6 +14,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Milena-Kamitani&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![Snake animation](https://github.com/Milena-Kamitani/Milena-Kamitani/blob/main/feltex-github-user-contribution.svg)  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
