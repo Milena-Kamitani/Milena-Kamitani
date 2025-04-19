@@ -1,6 +1,6 @@
 # 💫 About Me:
-🖥️Atualmente atuo como Desenvolvedora Full Stack,<br>👩🏻‍💻Estou cursando duas pós-graduações:
-  • Desenvolvimento Full Stack
+🖥️Atualmente atuo como Desenvolvedora Full Stack,<br>👩🏻‍💻Estou cursando duas pós-graduações:<br>👩🏻‍💻
+  • Desenvolvimento Full Stack,<br>👩🏻‍💻
   • Computação Forense e Perícia Digital,
   <br>📚Continuo me aprimorando constantemente, com foco especial em tecnologias modernas de front-end e back-end.<br><br>
 
