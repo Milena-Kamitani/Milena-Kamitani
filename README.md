@@ -1,5 +1,8 @@
 # 💫 About Me:
-🖥️Atualmente, exerço a função de Técnica de Suporte,<br>👩🏻‍💻Estou em busca de uma oportunidade na área de Desenvolvimento,<br>📚No momento, estou dedicando-me ao estudo intensivo de tecnologias front-end.<br><br>
+🖥️Atualmente atuo como Desenvolvedora Full Stack,<br>👩🏻‍💻Estou cursando duas pós-graduações:
+  • Desenvolvimento Full Stack
+  • Computação Forense e Perícia Digital,
+  <br>📚Continuo me aprimorando constantemente, com foco especial em tecnologias modernas de front-end e back-end.<br><br>
 
 
 ## 🌐 Socials:
