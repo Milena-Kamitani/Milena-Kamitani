@@ -1,9 +1,5 @@
 # 💫 About Me:
-🖥️Atualmente atuo como Analista de Sistema ,<br>👩🏻‍💻Estou cursando três pós-graduações:<br>
-  • Desenvolvimento Full Stack,<br>  
-  • Gestão de Produtos,
-  • Computação Forense e Perícia Digital,
-  
+🖥️Atualmente atuo como Desenvolvedora Front-End
   <br>📚Continuo me aprimorando constantemente <br><br>
   Portifolio: https://www.mkamitami.com.br/
 
