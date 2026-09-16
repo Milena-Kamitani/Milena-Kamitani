@@ -126,16 +126,15 @@ Tenho experiência participando do desenvolvimento e evolução de sistemas comp
 
 ---
 
-# 📚 Atualmente aprimorando
+## 📚 Atualmente aprimorando
 
-```text
-☕ Java & Back-End
-⚛️ React / TypeScript
-🟢 Node.js & NestJS
-🐳 Docker & CI/CD
-🏗️ Arquitetura de Software
-🇺🇸 Inglês
-```
+![Java](https://img.shields.io/badge/Java%20%26%20Back--End-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React%20%2F%20TypeScript-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/Node.js%20%26%20NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20%26%20CI%2FCD-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![AI](https://img.shields.io/badge/Inteligência%20Artificial-412991?style=for-the-badge&logo=openai&logoColor=white)
+![English](https://img.shields.io/badge/Inglês-B2%20em%20desenvolvimento-007ACC?style=for-the-badge)
 
 ---
 
@@ -144,7 +143,11 @@ Tenho experiência participando do desenvolvimento e evolução de sistemas comp
 > 💡 A maior parte da minha atividade profissional acontece em repositórios privados e organizacionais.
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Milena-Kamitani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Milena-Kamitani&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milena-Kamitani&theme=tokyo-night&hide_border=true" />
 </p>
 ---
 
