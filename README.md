@@ -139,14 +139,13 @@ Tenho experiência participando do desenvolvimento e evolução de sistemas comp
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Activity
 
-
+> 💡 A maior parte da minha atividade profissional acontece em repositórios privados e organizacionais.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milena-Kamitani&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Milena-Kamitani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
-
 ---
 
 # 🎯 Perfil Profissional
