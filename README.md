@@ -141,10 +141,7 @@ Tenho experiência participando do desenvolvimento e evolução de sistemas comp
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Milena-Kamitani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milena-Kamitani&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milena-Kamitani&theme=tokyonight&hide_border=true"/>
@@ -170,6 +167,4 @@ Tenho experiência participando do desenvolvimento e evolução de sistemas comp
   <b>💡 Tecnologia é transformar problemas em soluções.</b>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Milena-Kamitani&icon=5&color=6"/>
-</p>
+
