@@ -142,13 +142,18 @@ Tenho experiência participando do desenvolvimento e evolução de sistemas comp
 
 > 💡 A maior parte da minha atividade profissional acontece em repositórios privados e organizacionais.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Milena-Kamitani&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-</p>
+🔒 **Private & Organization Repositories**  
+Grande parte das minhas contribuições está relacionada a projetos profissionais privados, envolvendo desenvolvimento, manutenção e evolução contínua de aplicações.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milena-Kamitani&theme=tokyo-night&hide_border=true" />
-</p>
+### 💻 Principais áreas de atuação
+
+- ⚛️ Desenvolvimento Front-End com React & TypeScript
+- ☕ Desenvolvimento Back-End com Java
+- 🟢 APIs com Node.js
+- 📱 Desenvolvimento Mobile com React Native
+- 🐳 Docker, CI/CD e ambientes de produção
+- 🗄️ Bancos de dados SQL
+- 🔗 Integração e desenvolvimento de APIs REST
 ---
 
 # 🎯 Perfil Profissional
